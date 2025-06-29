@@ -36,10 +36,10 @@
 ### 👥 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/arafatman" target="_blank">
+  <a href="https://www.linkedin.com/in/arafat-man?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-@arafatman-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://fb.com/rafat" target="_blank">
+  <a href="https://www.facebook.com/share/1Ezk4qWSPk/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-@rafat-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/l4stdance_" target="_blank">
