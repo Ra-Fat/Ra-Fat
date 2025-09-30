@@ -52,7 +52,7 @@
 ### 💼 Portfolio & Projects
 
 <p align="center">
-  <a href="https://github.com/Ra-Fat/Portfolio.git">
+  <a href="https://rafat21.vercel.app/">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
