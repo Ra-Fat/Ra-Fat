@@ -59,14 +59,7 @@
 
 ---
 
-### 📌 Currently
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Working%20On-Grand%20Cineplex-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Next.js%2C%20Flutter%2C%20Angular-blueviolet?style=for-the-badge" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
