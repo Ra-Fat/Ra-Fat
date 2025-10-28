@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="200" alt="Guitar playing animation" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Listening to music animation" />
 </p>
 
 <h1 align="center">
