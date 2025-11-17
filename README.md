@@ -61,14 +61,14 @@
 ### 👥 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arafat-man?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-@arafatman-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/arafat-man" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/share/1Ezk4qWSPk/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-@rafat-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/l4stdance_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@l4stdance_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
