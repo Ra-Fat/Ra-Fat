@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://rafat21.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-Click%20Here-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
