@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding animation" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00F7FF&center=true&vCenter=true&repeat=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Arafat+Man" alt="Typing animation" />
 </h1>
