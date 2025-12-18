@@ -6,14 +6,6 @@
   Aspiring full stack developer eager to learn and collaborate
 </p>
 
----
-
-### 💼 Portfolio & Projects
-
-<p align="center">
-  Take a look at some of my projects and experience by visiting my portfolio.
-</p>
-
 <p align="center">
   <a href="https://rafat21.vercel.app/" target="_blank" style="text-decoration:none; font-weight:bold; color:#0A66C2; border: 2px solid #0A66C2; padding: 8px 16px; border-radius: 6px;">
     Visit My Portfolio
