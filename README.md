@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Arafat Man</h1>
 
 <p align="center">
-  Third-year student at Cambodia Academy of Digital Technology (CADT) •  
-  Passionate about building frontend & backend web applications •  
+  Third-year student at Cambodia Academy of Digital Technology (CADT)<br/>
+  Passionate about building frontend & backend web applications<br/>
   Aspiring full stack developer eager to learn and collaborate
 </p>
 
@@ -11,32 +11,14 @@
 ### 💼 Portfolio & Projects
 
 <p align="center">
-  Please visit my portfolio to see my projects and learn more about my work:<br/>
-  <a href="https://rafat21.vercel.app/" target="_blank">https://rafat21.vercel.app/</a>
+  Take a look at some of my projects and experience by visiting my portfolio.
 </p>
 
----
-
-### 👥 Connect with Me
-
-<table align="center" cellspacing="15" cellpadding="5">
-  <tr>
-    <td><strong>📧 Email</strong></td>
-    <td><a href="mailto:your.email@example.com">your.email@example.com</a></td>
-  </tr>
-  <tr>
-    <td><strong>🔗 LinkedIn</strong></td>
-    <td><a href="https://www.linkedin.com/in/arafat-man" target="_blank">linkedin.com/in/arafat-man</a></td>
-  </tr>
-  <tr>
-    <td><strong>📘 Facebook</strong></td>
-    <td><a href="https://www.facebook.com/share/1Ezk4qWSPk/?mibextid=wwXIfr" target="_blank">facebook.com/arafat</a></td>
-  </tr>
-  <tr>
-    <td><strong>📸 Instagram</strong></td>
-    <td><a href="https://instagram.com/l4stdance_" target="_blank">instagram.com/l4stdance_</a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://rafat21.vercel.app/" target="_blank" style="text-decoration:none; font-weight:bold; color:#0A66C2; border: 2px solid #0A66C2; padding: 8px 16px; border-radius: 6px;">
+    Visit My Portfolio
+  </a>
+</p>
 
 ---
 
@@ -79,3 +61,23 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+
+---
+
+### 👥 Connect with Me
+
+<p align="center">
+  <a href="mailto:manrafat2006@gmail.com" target="_blank" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/arafat-man/" target="_blank" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/share/1K49ppo5eE/?mibextid=wwXIfr" target="_blank" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/urj4zz_/" target="_blank" style="margin: 0 6px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
