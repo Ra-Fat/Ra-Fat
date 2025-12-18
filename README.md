@@ -83,21 +83,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ra-fat&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra-fat&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔥 Current Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ra-fat&theme=radical" />
-</p>
