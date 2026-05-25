@@ -1,7 +1,7 @@
 <h1>Hi, I'm Arafat Man</h1>
 
 <p>
-  Third-year student at Cambodia Academy of Digital Technology (CADT)<br/>
+  Third-year student at Cambodia Academy of Digital Technology (CADT)
   Passionate about building frontend & backend web applications<br/>
   Aspiring full stack developer eager to learn and collaborate
 </p>
